@@ -24,3 +24,4 @@ The goal of this project was to transform raw, unstructured operational transit 
 ## 🧮 Key DAX Measures
 Authored custom DAX logic to evaluate station efficiency:
 `Delay Rate per 10k Commuters = DIVIDE([Total Delay Incidents], [Total Daily Boardings]) * 10000`
+<img width="1304" height="708" alt="Power Bi Dashboard TTC Subway Delay" src="https://github.com/user-attachments/assets/8360ab3c-56ac-4da5-bd2b-441f1454f31a" />

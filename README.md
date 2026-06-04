@@ -26,7 +26,28 @@ The goal of this project was to transform raw, unstructured operational transit 
 
 
 ## 🧮 Key DAX Measures
+Prior Year Delays = 
+CALCULATE(
+    [Total Delay Incidents], 
+    SAMEPERIODLASTYEAR(Dim_Calendar[Date])
+)
+
+Monthly Target Delays = 
+IF(
+    ISBLANK([Prior Year Delays]), 
+    BLANK(), 
+    [Prior Year Delays] * 0.90
+)
+
+Total Delay Incidents = COUNTROWS(Fact_TTC_Delays)
+
+Average Delay (Mins) = 
+    AVERAGE
+    (Fact_TTC_Delays[Min Delay]
+    )
+
 Authored custom DAX logic to evaluate station efficiency:
 `Delay Rate per 10k Commuters = DIVIDE([Total Delay Incidents], [Total Daily Boardings]) * 10000`
+
 
 

@@ -18,9 +18,12 @@ The goal of this project was to transform raw, unstructured operational transit 
 *(Drag and drop your Data Model screenshot here)*
 
 ## 📈 Dashboard Previews
-*(Drag and drop your Page 1 screenshot here)*
-*(Drag and drop your Page 2 / Map screenshot here)*
-*(Drag and drop your GIF here showing interactivity)*
+<img width="948" height="534" alt="Screenshot 2026-06-04 131428" src="https://github.com/user-attachments/assets/33c3f504-fed0-4222-8836-2c47e03452c3" />
+<img width="893" height="537" alt="Screenshot 2026-06-04 115537" src="https://github.com/user-attachments/assets/6d4cc4fd-d67c-4530-af80-9456d291f962" />
+<img width="893" height="539" alt="Screenshot 2026-06-04 115503" src="https://github.com/user-attachments/assets/1581ecba-3fd6-47db-a6e7-68977cb169a0" />
+<img width="420" height="304" alt="Screenshot 2026-06-04 120714" src="https://github.com/user-attachments/assets/3c655b9e-d18f-4020-967f-f110deacb1dd" />
+
+
 
 ## 🧮 Key DAX Measures
 Authored custom DAX logic to evaluate station efficiency:

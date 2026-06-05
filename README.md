@@ -1,6 +1,6 @@
-<img width="893" height="504" alt="Screenshot 2026-06-05 174818" src="https://github.com/user-attachments/assets/c1a1c91c-3c52-423b-8e4f-ec03f62ddffb" />
-# TTC-Subway-Delay-Analysis
 
+# TTC-Subway-Delay-Analysis
+<img width="1426" height="800" alt="TTC Delay Dashboard Tutorial" src="https://github.com/user-attachments/assets/c2e3aada-147f-4001-a538-f90d1bb2b4ff" />
 An end-to-end Power BI dashboard analyzing Toronto transit delays, ridership efficiency, and spatial data.
 
 # 🚇 TTC Subway Delay & Ridership Performance
@@ -19,7 +19,7 @@ The goal of this project was to transform raw, unstructured operational transit 
 <img width="420" height="304" alt="Screenshot 2026-06-04 120714" src="https://github.com/user-attachments/assets/81a456a1-f808-439b-9d43-b8dcc8ccd37e" />
 
 ## 📈 Dashboard Previews
-<img width="1426" height="800" alt="TTC Delay Dashboard Tutorial" src="https://github.com/user-attachments/assets/c2e3aada-147f-4001-a538-f90d1bb2b4ff" />
+<img width="893" height="504" alt="Screenshot 2026-06-05 174818" src="https://github.com/user-attachments/assets/c1a1c91c-3c52-423b-8e4f-ec03f62ddffb" />
 <img width="890" height="500" alt="Screenshot 2026-06-05 173832" src="https://github.com/user-attachments/assets/a4feaff2-82b1-4cd7-955d-8bbff2f6fd3f" />
 <img width="893" height="499" alt="Screenshot 2026-06-05 173914" src="https://github.com/user-attachments/assets/55708388-4a6b-459d-ad31-199074745985" />
 <img width="894" height="501" alt="Screenshot 2026-06-05 174553" src="https://github.com/user-attachments/assets/a80629b0-9ba8-4711-9cae-e0163d4164d7" />

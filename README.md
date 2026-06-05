@@ -1,3 +1,4 @@
+<img width="893" height="504" alt="Screenshot 2026-06-05 174818" src="https://github.com/user-attachments/assets/c1a1c91c-3c52-423b-8e4f-ec03f62ddffb" />
 # TTC-Subway-Delay-Analysis
 <img width="1426" height="800" alt="TTC Delay Dashboard Tutorial" src="https://github.com/user-attachments/assets/c2e3aada-147f-4001-a538-f90d1bb2b4ff" />
 

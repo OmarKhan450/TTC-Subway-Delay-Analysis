@@ -44,6 +44,9 @@ The goal of this dashboard is to move beyond simply counting total delays by eva
 *   **Star Schema (1-to-Many):**  
     Architected an optimized database model connecting the transactional delay data to the station ridership lookup table.
 
+    <img width="420" height="304" alt="Screenshot 2026-06-04 120714" src="https://github.com/user-attachments/assets/8145b9be-1d3a-4e22-b97a-678ce04145ce" />
+
+
 *   **Rolling Calendar:**  
     Generated a custom, rolling calendar table natively in Power Query to support continuous timelines and time-intelligence logic.
 
